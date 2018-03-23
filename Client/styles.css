@@ -1,0 +1,38 @@
+body {
+    background-color: gray
+}
+#wrapper {
+    text-align: center;
+}
+h2 {
+    color: darkblue;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+li {
+list-style-type: none;
+
+}
+
+span {
+    font-family: 'Droid Serif', serif;
+    font-size: 20px
+}
+
+button {
+    font-family: 'Droid Serif', serif;
+    font-size: 14px;
+    margin-bottom: 14px;
+    background-color: hotpink;
+    border-radius: 40px;
+
+}
+input {
+    font-family: 'Droid Serif', serif;
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
+ 
+
